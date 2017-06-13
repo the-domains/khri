@@ -1,3 +1,16 @@
+layout_spectrum: 0.014220828540752283
+typography_spectrum: 0.1819018555424259
+color:
+  lightness: 0.34887908751495406
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  saturation: 0.9301758710472006
+  brandStrength: 0.20920651087509745
+  rhythmicContrast: 0.49593984473985386
 name: Kähäri
 analytics:
   google: UA-91246041-1
@@ -31,23 +44,10 @@ collections:
       format: rss
       number: 10
 content: []
-layout_spectrum: 0.8332290215765374
-color:
-  lightness: 0.7427720008142256
-  brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
-  saturation: 0.02567610220439585
-  brandStrength: 0.2284902208764106
-  rhythmicContrast: 0.1095992022940871
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aba7c80-8520-44db-9875-8b3349ce3142.ico
 content_rating:
   adult: false
-typography_spectrum: 0.2996974452763869
 opengraph: {}
 title: Familjen Kähäri-Bryskhe
 url: 'http://xn--khri-loab.se'
