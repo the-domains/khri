@@ -1,0 +1,53 @@
+name: Kähäri
+analytics:
+  google: UA-91246041-1
+purpose:
+  - type: external
+    url: 'https://twitter.com/kahari'
+    label: '@kahari'
+  - type: external
+    url: 'https://www.youtube.com/channel/UC9aBLen6QlToZh_ZvvdbIkg'
+    label: Fillemannens Youtube
+github: true
+description: Smått & Gott
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.8332290215765374
+color:
+  lightness: 0.7427720008142256
+  brandColors:
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+  saturation: 0.02567610220439585
+  brandStrength: 0.2284902208764106
+  rhythmicContrast: 0.1095992022940871
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aba7c80-8520-44db-9875-8b3349ce3142.ico
+content_rating:
+  adult: false
+typography_spectrum: 0.2996974452763869
+opengraph: {}
+title: Familjen Kähäri-Bryskhe
+url: 'http://xn--khri-loab.se'
