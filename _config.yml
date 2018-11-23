@@ -1,16 +1,16 @@
-layout_spectrum: 0.5589904157730686
-typography_spectrum: 0.187439191245686
+layout_spectrum: 0.9025657386781814
+typography_spectrum: 0.26535091551223605
 color:
-  lightness: 0.9927727966362814
+  lightness: 0.04345763542670941
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-  saturation: 0.4600122793060313
-  brandStrength: 0.1898571274867558
-  rhythmicContrast: 0.4005823704391017
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  saturation: 0.3092705439379678
+  brandStrength: 0.1251642090939723
+  rhythmicContrast: 0.7555269152617616
 name: Kähäri
 analytics:
   google: UA-91246041-1
